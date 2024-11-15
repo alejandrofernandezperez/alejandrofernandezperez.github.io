@@ -1,7 +1,3 @@
-- name: Publications
-  link: /publications.html
-- name: Projects
-  link: /projects.html
 - name: Blog
   link: /blog.html
 - name: About me
